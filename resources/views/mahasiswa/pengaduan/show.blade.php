@@ -157,7 +157,7 @@
                 <h2 class="text-xl md:text-2xl font-bold text-[var(--text-dark)] mb-6">Riwayat Status</h2>
                 <div class="relative pl-6">
                     {{-- Garis Timeline --}}
-                    <div class="absolute left-0 top-0 h-full w-1 bg-[var(--border-color)]"></div>
+                    <div class="absolute left-2.5 top-0 h-full w-1 bg-[var(--border-color)]"></div>
 
                     @foreach ($pengaduan->statusLogs->sortBy('created_at') as $log)
                         <div class="mb-8 relative last:mb-0">

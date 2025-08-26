@@ -758,7 +758,7 @@
                         <div class="accordion-item faq-card mb-3">
                             <h2 class="accordion-header" id="headingFive">
                                 <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                    5. Untuk membuat pengajuan apakah terbatas?
+                                    5. Apakah ada batasan jumlah pengaduan yang bisa saya ajukan?
                                 </button>
                             </h2>
                             <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
