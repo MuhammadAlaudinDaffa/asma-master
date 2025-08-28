@@ -756,12 +756,12 @@
                             </div>
                         </div>
                         <div class="accordion-item faq-card mb-3">
-                            <h2 class="accordion-header" id="headingFive">
-                                <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                    5. Apakah ada batasan jumlah pengaduan yang bisa saya ajukan?
+                            <h2 class="accordion-header" id="headingEight">
+                                <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                    8. Apakah ada batasan jumlah pengaduan yang bisa saya ajukan?
                                 </button>
                             </h2>
-                            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
+                            <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body text-muted">
                                     Ya, setiap mahasiswa hanya diperbolehkan membuat maksimal 3 pengajuan dalam satu hari. Hal ini bertujuan untuk memastikan bahwa setiap pengaduan dapat ditangani dengan baik dan tidak menumpuk.
                                 </div>

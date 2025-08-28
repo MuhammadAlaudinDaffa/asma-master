@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'http://lomba.smkbn666.sch.id/k3'),
 
     /*
     |--------------------------------------------------------------------------
